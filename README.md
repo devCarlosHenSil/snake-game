@@ -1,5 +1,8 @@
 # 🐍 Snake Game
 
+🔗 **Demo online:**  
+https://devCarlosHenSil.github.io/snake-game/
+
 Projeto clássico do jogo **Snake**, desenvolvido com **HTML, CSS e JavaScript puro**, com foco em lógica de programação, manipulação do DOM e controle de estado do jogo.
 
 ---
